@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LoginApp</string>
+    <string name="input_error_username">Username required</string>
+    <string name="input_error_invalid_cred">Invalid Credential!!</string>
+    <string name="input_error_password">Password required</string>
+    <string name="input_error_password_length">Password should be atleast 6 characters long</string>
+</resources>
